@@ -1,0 +1,28 @@
+{
+  "foods": [
+    {
+      "id": 1,
+      "name": "Ao molho",
+      "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas",
+      "price": "19.90",
+      "available": true,
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png"
+    },
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
+      "name": "Yakissoba",
+      "price": "45.90",
+      "description": "Comida Japonesa",
+      "available": true,
+      "id": 2
+    },
+    {
+      "image": "https://gooutside.com.br/wp-content/uploads/sites/3/2020/02/comida-porcaria-efeito-no-cerebro.jpg",
+      "name": "moda italizana",
+      "price": "20",
+      "description": "comida muito boa",
+      "available": true,
+      "id": 3
+    }
+  ]
+}
